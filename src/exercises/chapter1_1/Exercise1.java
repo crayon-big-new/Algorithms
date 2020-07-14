@@ -1,4 +1,4 @@
-package exercises.chapter1;
+package exercises.chapter1_1;
 
 public class Exercise1 {
 
